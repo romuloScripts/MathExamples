@@ -1,0 +1,70 @@
+vetores
+    direção entre dois pontos
+    normalized
+    magnitude
+    dot
+    cross
+    distancia
+
+    ex snake movement, missel, atira campo de visão
+
+quaternios
+
+    axis
+    combinação
+    dot
+    lerp
+    gimbal lock
+    visualizing
+
+interpolação
+
+    lerp
+    InverseLerp
+    remap
+    MoveTowards
+    smoothstep
+    PingPong
+    sigmoid 
+    
+    easyfunctions
+    https://easings.net/#:~:text=Easing%20functions%20specify%20the%20rate,down%20as%20it%20comes%20out.
+    
+curvas parametricas
+
+    bezier 4 points, N points
+    Casteljau
+    Hermite
+    Catmull-Rom
+
+interseções
+
+    projetar um ponto do raio no plano
+    distancia entre ponto e plano
+    
+    distancia do ponto pra linha
+    ponto mais proximo a linha
+    
+    interseção de duas linhas
+    
+    reflecção
+    
+    
+Trigonometria
+
+Circulo
+Angulos
+Angulo para Vetor
+Vetor para angulo - look at 2d
+Angulo entre dois vetores - angulo de visão
+
+Piragoras
+SOH CAH TOA 
+Leis dos senos e cosenos
+
+Matriz
+
+
+
+Sigma and log
+
