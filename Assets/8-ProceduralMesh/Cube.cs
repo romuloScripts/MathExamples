@@ -8,8 +8,8 @@ public class Cube : MonoBehaviour
     private Mesh _mesh;
 
     void OnEnable()
-    {
-        _mesh = new Mesh {name = "Plane"};
+    {_mesh = new Mesh {name = "Plane"};
+        
         List<Vector3> vertices = new List<Vector3>();
         List<Vector2> uvs = new List<Vector2>();
         List<int> tris = new List<int>();
