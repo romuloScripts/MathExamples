@@ -6,6 +6,7 @@ public class Shape2D : MonoBehaviour
 {
     public Vector2[] verts;
     public Vector2[] normals;
+    public float[] us;
     public int[] lines;
     
     public BezierForMesh bezier;
@@ -39,16 +40,30 @@ public class Shape2D : MonoBehaviour
         return pos.pos + pos.rot * local;
     }
 
+    public float GetUSpan()
+    {
+        float totalLength = 0;
+        for (int i = 0; i < lines.Length; i+=2)
+        {
+            totalLength += Vector3.Distance(verts[lines[i]], verts[lines[i + 1]]);
+        }
+
+        return totalLength;
+    }
+
     [ContextMenu("GenerateCircle")]
     private void GenerateCircle()
     {
         verts = new Vector2[circleSegments + 1];
         lines = new int[circleSegments*2];
         normals = new Vector2[verts.Length];
+        us = new float[verts.Length];
 
         for (int i = 0; i < verts.Length; i++)
         {
             float t = i / (float) (verts.Length - 1);
+
+            us[i] = t;
 
             float radians = Mathf.PI * 2 * t;
 

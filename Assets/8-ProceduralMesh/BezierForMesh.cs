@@ -34,7 +34,7 @@ public class BezierForMesh : MonoBehaviour
     {
         var p1 = pIni.position;
         var p2 = pIni.position + pIni.forward * pIni.localScale.z;
-        var p3 = pEnd.position + pEnd.forward*-1 * pEnd.localScale.z;
+        var p3 = pEnd.position + pEnd.forward * (-1 * pEnd.localScale.z);
         var p4 = pEnd.position;
         
         Vector3 a = Vector3.Lerp(p1, p2, t); 
