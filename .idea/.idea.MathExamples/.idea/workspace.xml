@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="738dc0f7-0cff-4cbc-9d64-b9a07a2cade3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/8-ProceduralMesh/Cube.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/8-ProceduralMesh/Cube.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MathExamples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MathExamples/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MathExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MathExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8-ProceduralMesh/BezierForMesh.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/8-ProceduralMesh/BezierForMesh.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/8-ProceduralMesh/ProceduralMesh.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/8-ProceduralMesh/ProceduralMesh.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MatrizPositions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MatrizPositions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Esphira.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Esphira.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExtendVectorClass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExtendVectorClass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RandomDirectionByAngle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RandomDirectionByAngle.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +30,10 @@
       <option value="$PROJECT_DIR$/Assets/8-ProceduralMesh/MeshPathBezier.cs" />
       <option value="$PROJECT_DIR$/Assets/Shape2D.cs" />
       <option value="$PROJECT_DIR$/Assets/8-ProceduralMesh/Cube.cs" />
-      <option value="$PROJECT_DIR$/Assets/8-ProceduralMesh/BezierForMesh.cs" />
       <option value="$PROJECT_DIR$/Assets/8-ProceduralMesh/Shape2D.cs" />
       <option value="$PROJECT_DIR$/Assets/8-ProceduralMesh/TubeMesh.cs" />
+      <option value="$PROJECT_DIR$/Assets/8-ProceduralMesh/BezierForMesh.cs" />
+      <option value="$PROJECT_DIR$/Assets/FibonacciSphere.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sEz6MrMp63UL9Imep8CiUCe7oE" />
@@ -72,7 +77,12 @@
       <updated>1620452365407</updated>
       <workItem from="1620452376519" duration="139000" />
       <workItem from="1620490237693" duration="7988000" />
-      <workItem from="1620769057701" duration="4508000" />
+      <workItem from="1620769057701" duration="5104000" />
+      <workItem from="1621038899435" duration="5048000" />
+      <workItem from="1621112722122" duration="731000" />
+      <workItem from="1621373624769" duration="4134000" />
+      <workItem from="1621655155179" duration="1295000" />
+      <workItem from="1621736066023" duration="642000" />
     </task>
     <servers />
   </component>

@@ -49,10 +49,12 @@
           <e p="TubeMesh.cs" t="Include" />
           <e p="UVTest.shader" t="Include" />
         </e>
-        <e p="Esphira.cs" t="Include" />
-        <e p="ExtendVectorClass.cs" t="Include" />
         <e p="matematica.txt" t="Include" />
-        <e p="RandomDirectionByAngle.cs" t="Include" />
+        <e p="Others" t="Include">
+          <e p="ExtendVectorClass.cs" t="Include" />
+          <e p="FibonacciSphere.cs" t="Include" />
+          <e p="RandomDirectionByAngle.cs" t="Include" />
+        </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
             <e p="LiberationSans - OFL.txt" t="Include" />
